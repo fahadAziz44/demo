@@ -11,15 +11,13 @@
   "profile": {
     "name": "typicode"
   },
-  "vat": [
-    { "name": "DE", "value": "15"},
-    { "name": "FR", "value": "10"}
-  ],
-  "IT": { "name": "DE", "value": "20" },
-  "DE": { "name": "DE", "value": "15" },
-  "AM": { "name": "DE", "value": "13" },
-  "FR": { "name": "DE", "value": "16" },
-  "SW": { "name": "DE", "value": "14" },
-  "BR": { "name": "DE", "value": "18" }
+  "vats": [
+    {"id": "IT", "name": "Italy", "value": "20" },
+    {"id": "DE", "name": "Germany", "value": "15" },
+    {"id": "NT", "name": "Netherland", "value": "13" },
+    {"id": "FR", "name": "France", "value": "16" },
+    {"id": "SW", "name": "Switzerland", "value": "14" },
+    {"id": "BR", "name": "Britan", "value": "18" }
+  ]
   
 }
