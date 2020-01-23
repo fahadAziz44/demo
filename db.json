@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "vat": [
+    { "name": "DE", "value": "15"},
+    { "name": "FR", "value": "10"}
+  ],
+  "tax": { "name": "DE", "value": "15" }
+  
 }
