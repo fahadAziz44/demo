@@ -15,6 +15,11 @@
     { "name": "DE", "value": "15"},
     { "name": "FR", "value": "10"}
   ],
-  "tax": { "name": "DE", "value": "15" }
+  "IT": { "name": "DE", "value": "20" },
+  "DE": { "name": "DE", "value": "15" },
+  "AM": { "name": "DE", "value": "13" },
+  "FR": { "name": "DE", "value": "16" },
+  "SW": { "name": "DE", "value": "14" },
+  "BR": { "name": "DE", "value": "18" }
   
 }
